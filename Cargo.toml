@@ -1,0 +1,8 @@
+[package]
+name = "game_of_dust"
+version = "0.1.0"
+authors = ["David Schumann <david.schumann@student.hpi.com>"]
+
+[dependencies]
+glium="*"
+rand="*"
